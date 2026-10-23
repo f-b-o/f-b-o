@@ -9,7 +9,10 @@ Desenvolvedor focado em criar soluções eficientes, escaláveis e bem estrutura
 - 💻 Atuo no desenvolvimento de software com foco em **Back-end** e interfaces modernas.
 - 📐 Aplico princípios de **Clean Code**, **SOLID** e arquitetura limpa nos projetos.
 - 🎯 Sempre em busca de resolver problemas reais através da tecnologia.
-- 💬 Vamos trocar uma ideia sobre desenvolvimento e tecnologia!
+
+- 🎯 Objetivo
+
+Atuar na área de Tecnologia e Sistemas, aplicando os conhecimentos adquiridos na graduação em Análise e Desenvolvimento de Sistemas. Busco uma oportunidade para desenvolver minhas habilidades práticas nas diversas frentes da área, aprender novas ferramentas e contribuir com dedicação para os resultados da equipe e o crescimento da empresa.
 
 ---
 
