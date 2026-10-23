@@ -1,6 +1,6 @@
 # Olá, eu sou Fábio! 👋
 
-Desenvolvedor focado em criar soluções eficientes, escaláveis e bem estruturadas. Apaixonado por arquitetura de software, boas práticas de código e aprendizado contínuo.
+Estudante de Análise e Desenvolvimento de Sistemas, focado em Back-end e sempre aprendendo.
 
 ---
 
