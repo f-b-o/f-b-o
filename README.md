@@ -10,9 +10,18 @@ Estudante de Análise e Desenvolvimento de Sistemas, focado em Back-end e sempre
 - 📐 Aplico princípios de **Clean Code**, **SOLID** e arquitetura limpa nos projetos.
 - 🎯 Sempre em busca de resolver problemas reais através da tecnologia.
 
-- 🎯 Objetivo
+### 🎯 Objetivo
 
-Atuar na área de Tecnologia e Sistemas, aplicando os conhecimentos adquiridos na graduação em Análise e Desenvolvimento de Sistemas. Busco uma oportunidade para desenvolver minhas habilidades práticas nas diversas frentes da área, aprender novas ferramentas e contribuir com dedicação para os resultados da equipe e o crescimento da empresa.
+Estou em busca de desafios práticos na área de tecnologia onde eu possa aplicar meus conhecimentos da graduação. Meu foco principal é evoluir como profissional, explorar novas ferramentas no dia a dia e contribuir ativamente para a criação de soluções junto a uma equipe colaborativa.
+
+---
+
+### 🤝 Minhas características
+
+- **Resolução de Problemas:** Gosto de desconstruir desafios lógicos e procurar a solução mais eficiente.
+- **Aprendizado Contínuo:** Sempre explorando novas tecnologias para melhorar a qualidade do meu código.
+- **Trabalho em Equipe:** Acredito que a comunicação clara e a troca de ideias são essenciais para um bom projeto.
+- **Proatividade:** Tenho iniciativa para investigar problemas por conta própria e garantir que as tarefas sejam entregues.
 
 ---
 
@@ -45,3 +54,15 @@ Atuar na área de Tecnologia e Sistemas, aplicando os conhecimentos adquiridos n
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
 </p>
 
+---
+
+### 📄 Currículo e Certificados
+
+🔗 **[Visualizar meu Currículo Completo (PDF)](Curriculo_Fabio_Pereira_de_Sousa.pdf)**[cite: 14]
+
+🏆 **Meus Certificados:**
+- [Crie um Site Simples usando HTML, CSS e JavaScript — Fundação Bradesco (Escola Virtual) - Out/2026](Certificado_de_Conclusao_html_3.pdf)[cite: 14, 17]
+- [GrowUp UNIT: Flask, Rotas/HTTP e Fundamentos do Node.js — Faculdade de Tecnologia Rocketseat - Abr/2026](Certificado_2026.1_-_Ciclo_GrowUp_UNIT_1_3.pdf)[cite: 14, 15]
+- [RiseUp: Fundamentos e Projeto com Tooling — Faculdade de Tecnologia Rocketseat - Set/2025](Certificado_2025.2_UNIT_RiseUp_3.pdf)[cite: 14, 16]
+- [Projetos de Sistemas de TI — Fundação Bradesco (Escola Virtual) - Ago/2025](Certificado_Projetos_de_Sistemas_de_TI.pdf)[cite: 14, 18]
+- [Informática e Introdução Básica a Programas de Escritório — Espaço Ciência - Dez/2022](Clicidadao_Certificado_Fabio_2.pdf)[cite: 14, 19]
