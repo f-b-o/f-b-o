@@ -58,11 +58,10 @@ Estou em busca de desafios práticos na área de tecnologia onde eu possa aplica
 
 ### 📄 Currículo e Certificados
 
-🔗 **[Visualizar meu Currículo Completo (PDF)](Curriculo_Fabio_Pereira_de_Sousa.pdf)**[cite: 14]
+🔗 **[Visualizar meu Currículo Completo (PDF)](curriculo.pdf)**
 
 🏆 **Meus Certificados:**
-- [Crie um Site Simples usando HTML, CSS e JavaScript — Fundação Bradesco (Escola Virtual) - Out/2026](Certificado_de_Conclusao_html_3.pdf)[cite: 14, 17]
-- [GrowUp UNIT: Flask, Rotas/HTTP e Fundamentos do Node.js — Faculdade de Tecnologia Rocketseat - Abr/2026](Certificado_2026.1_-_Ciclo_GrowUp_UNIT_1_3.pdf)[cite: 14, 15]
-- [RiseUp: Fundamentos e Projeto com Tooling — Faculdade de Tecnologia Rocketseat - Set/2025](Certificado_2025.2_UNIT_RiseUp_3.pdf)[cite: 14, 16]
-- [Projetos de Sistemas de TI — Fundação Bradesco (Escola Virtual) - Ago/2025](Certificado_Projetos_de_Sistemas_de_TI.pdf)[cite: 14, 18]
-- [Informática e Introdução Básica a Programas de Escritório — Espaço Ciência - Dez/2022](Clicidadao_Certificado_Fabio_2.pdf)[cite: 14, 19]
+- [Crie um Site Simples usando HTML, CSS e JavaScript — Fundação Bradesco (Escola Virtual)](certificado_html.pdf)
+- [GrowUp UNIT: Flask, Rotas/HTTP e Fundamentos do Node.js — Faculdade de Tecnologia Rocketseat](certificado_growup.pdf)
+- [RiseUp: Fundamentos e Projeto com Tooling — Faculdade de Tecnologia Rocketseat](certificado_riseup.pdf)
+- [Projetos de Sistemas de TI — Fundação Bradesco (Escola Virtual)](certificado_projetos_ti.pdf)
