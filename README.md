@@ -4,19 +4,13 @@ Estudante de Análise e Desenvolvimento de Sistemas, focado em Back-end e sempre
 
 ---
 
-### 🚀 Sobre mim
-
-- 💻 Atuo no desenvolvimento de software com foco em **Back-end** e interfaces modernas.
-- 📐 Aplico princípios de **Clean Code**, **SOLID** e arquitetura limpa nos projetos.
-- 🎯 Sempre em busca de resolver problemas reais através da tecnologia.
-
 ### 🎯 Objetivo
 
 Estou em busca de desafios práticos na área de tecnologia onde eu possa aplicar meus conhecimentos da graduação. Meu foco principal é evoluir como profissional, explorar novas ferramentas no dia a dia e contribuir ativamente para a criação de soluções junto a uma equipe colaborativa.
 
 ---
 
-### 🤝 Minhas características
+### 🚀 Minhas características
 
 - **Resolução de Problemas:** Gosto de desconstruir desafios lógicos e procurar a solução mais eficiente.
 - **Aprendizado Contínuo:** Sempre explorando novas tecnologias para melhorar a qualidade do meu código.
@@ -49,6 +43,7 @@ Estou em busca de desafios práticos na área de tecnologia onde eu possa aplica
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Pacote_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Pacote Office" />
 </p>
 
