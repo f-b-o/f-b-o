@@ -49,9 +49,8 @@ Estou em busca de desafios práticos na área de tecnologia onde eu possa aplica
 
 ---
 
-### 📄 Currículo e Certificados
+### 📄 Certificados
 
-🔗 **[Visualizar meu Currículo Completo (PDF)](curriculo.pdf)**
 
 🏆 **Meus Certificados:**
 - [Crie um Site Simples usando HTML, CSS e JavaScript — Fundação Bradesco (Escola Virtual)](certificado_html.pdf)
