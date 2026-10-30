@@ -57,3 +57,4 @@ Estou em busca de desafios práticos na área de tecnologia onde eu possa aplica
 - [GrowUp UNIT: Flask, Rotas/HTTP e Fundamentos do Node.js — Faculdade de Tecnologia Rocketseat](certificado_growup.pdf)
 - [RiseUp: Fundamentos e Projeto com Tooling — Faculdade de Tecnologia Rocketseat](certificado_riseup.pdf)
 - [Projetos de Sistemas de TI — Fundação Bradesco (Escola Virtual)](certificado_projetos_ti.pdf)
+- [Take Off UNIT: Tecnologias Emergentes, Agentes de IA e DevOps — Faculdade de Tecnologia Rocketseat](Certificado_takeoff.pdf)
