@@ -3,6 +3,17 @@
 Estudante de Análise e Desenvolvimento de Sistemas, focado em Back-end e sempre aprendendo.
 
 ---
+### 📬 Contatos
+
+<p align="left">
+  <a href="mailto:fabio.pds577@gmail.com?subject=Contato%20pelo%20GitHub">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/fabio-pereira-de-sousa-517003360/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 
 ### 🎯 Objetivo
 
@@ -56,13 +67,4 @@ Estou em busca de desafios práticos na área de tecnologia onde eu possa aplica
 - [Ciclo Take Off UNIT (2026.2) - Rocketseat](./Certificado_takeoff.pdf)
 - [Crie um site simples usando HTML, CSS e JavaScript - Fundação Bradesco](./certificado_html.pdf)
 
-### 📬 Contatos
 
-<p align="left">
-  <a href="mailto:fabio.pds577@gmail.com?subject=Contato%20pelo%20GitHub">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/fabio-pereira-de-sousa-517003360/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
