@@ -14,7 +14,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, focado em Back-end e sempre
   </a>
 </p>
 
-
+---
 ### 🎯 Objetivo
 
 Estou em busca de desafios práticos na área de tecnologia onde eu possa aplicar meus conhecimentos da graduação. Meu foco principal é evoluir como profissional, explorar novas ferramentas no dia a dia e contribuir ativamente para a criação de soluções junto a uma equipe colaborativa.
