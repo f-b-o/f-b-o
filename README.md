@@ -45,3 +45,13 @@ Estou em busca de desafios práticos na área de tecnologia onde eu possa aplica
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Pacote_Office-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Pacote Office" />
 </p>
+
+---
+
+### 📜 Certificados
+
+- [Projetos de Sistemas de TI - Fundação Bradesco](./certificado_projetos_ti.pdf)
+- [Ciclo RiseUp UNIT (2025.2) - Rocketseat](./certificado_riseup.pdf)
+- [Ciclo GrowUp UNIT (2026.1) - Rocketseat](./certificado_growup.pdf)
+- [Ciclo Take Off UNIT (2026.2) - Rocketseat](./Certificado_takeoff.pdf)
+- [Crie um site simples usando HTML, CSS e JavaScript - Fundação Bradesco](./certificado_html.pdf)
